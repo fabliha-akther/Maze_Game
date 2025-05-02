@@ -28,6 +28,11 @@ A Python-based maze game built using PyOpenGL where the player navigates through
 
 
 ---
+## Maze Game Preview
+
+![Maze Screenshot](Maze.png)
+
+---
 ## 🖥️ How to Run
 
 1. ✅ **Install dependencies**:
