@@ -2,7 +2,7 @@
 
 A Python-based maze game built using PyOpenGL where the player navigates through a randomly generated maze to collect gold and reach the goal, while avoiding deadly obstacles — all under a countdown timer.
 
-
+---
 
 ## 🎮 Gameplay Features
 
@@ -15,7 +15,7 @@ A Python-based maze game built using PyOpenGL where the player navigates through
 - 🎉 Win by collecting all gold and reaching the goal
 - ❗Lose if time runs out or you hit an obstacle
 
-
+---
 ## 🕹️ Controls
 
 | Key / Action      | Description                     |
@@ -27,7 +27,7 @@ A Python-based maze game built using PyOpenGL where the player navigates through
 | Mouse Click       | Pause / Restart buttons        |
 
 
-
+---
 ## 🖥️ How to Run
 
 1. ✅ **Install dependencies**:
